@@ -1,23 +1,1402 @@
-{
-  "nome": "João Silva",
-  "idade": 32,
-  "profissao": "Analista de Sistemas",
-  "renda_mensal": 5000.00,
-  "perfil_investidor": "moderado",
-  "objetivo_principal": "Construir reserva de emergência",
-  "patrimonio_total": 15000.00,
-  "reserva_emergencia_atual": 10000.00,
-  "aceita_risco": false,
-  "metas": [
-    {
-      "meta": "Completar reserva de emergência",
-      "valor_necessario": 15000.00,
-      "prazo": "2026-06"
-    },
-    {
-      "meta": "Entrada do apartamento",
-      "valor_necessario": 50000.00,
-      "prazo": "2027-12"
-    }
-  ]
-}
+[
+  {
+    "nome": "João Silva",
+    "idade": 31,
+    "profissao": "Arquiteta",
+    "renda_mensal": 9600.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Aumentar patrimônio a longo prazo",
+    "patrimonio_total": 49900.0,
+    "reserva_emergencia_atual": 20400.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Completar reserva de emergência",
+        "valor_necessario": 18700,
+        "prazo": "2025-04"
+      },
+      {
+        "meta": "Entrada do apartamento",
+        "valor_necessario": 45400,
+        "prazo": "2029-01"
+      }
+    ]
+  },
+  {
+    "nome": "Maria Oliveira",
+    "idade": 29,
+    "profissao": "Dentista",
+    "renda_mensal": 21300.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Construir reserva de emergência",
+    "patrimonio_total": 87400.0,
+    "reserva_emergencia_atual": 35800.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Completar reserva de emergência",
+        "valor_necessario": 27200,
+        "prazo": "2026-07"
+      },
+      {
+        "meta": "Carteira de renda passiva",
+        "valor_necessario": 157700,
+        "prazo": "2029-10"
+      }
+    ]
+  },
+  {
+    "nome": "Carlos Souza",
+    "idade": 57,
+    "profissao": "Comerciante",
+    "renda_mensal": 13000.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Quitar dívidas e reorganizar finanças",
+    "patrimonio_total": 283100.0,
+    "reserva_emergencia_atual": 49800.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Carteira de renda passiva",
+        "valor_necessario": 125100,
+        "prazo": "2028-10"
+      },
+      {
+        "meta": "Compra de terreno",
+        "valor_necessario": 70600,
+        "prazo": "2032-09"
+      }
+    ]
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 42,
+    "profissao": "Nutricionista",
+    "renda_mensal": 5100.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Financiar educação dos filhos",
+    "patrimonio_total": 147900.0,
+    "reserva_emergencia_atual": 21400.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Intercâmbio no exterior",
+        "valor_necessario": 35800,
+        "prazo": "2026-12"
+      },
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 26200,
+        "prazo": "2027-02"
+      }
+    ]
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 54,
+    "profissao": "Médica",
+    "renda_mensal": 21600.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Realizar intercâmbio",
+    "patrimonio_total": 728600.0,
+    "reserva_emergencia_atual": 54700.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Pós-graduação no exterior",
+        "valor_necessario": 58700,
+        "prazo": "2028-06"
+      },
+      {
+        "meta": "Carteira de renda passiva",
+        "valor_necessario": 378100,
+        "prazo": "2037-08"
+      }
+    ]
+  },
+  {
+    "nome": "Fernanda Costa",
+    "idade": 51,
+    "profissao": "Dentista",
+    "renda_mensal": 9000.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Reformar a casa",
+    "patrimonio_total": 221200.0,
+    "reserva_emergencia_atual": 3300.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 52000,
+        "prazo": "2027-12"
+      },
+      {
+        "meta": "Intercâmbio no exterior",
+        "valor_necessario": 31600,
+        "prazo": "2027-06"
+      },
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 15800,
+        "prazo": "2026-06"
+      }
+    ]
+  },
+  {
+    "nome": "Lucas Almeida",
+    "idade": 61,
+    "profissao": "Designer Gráfico",
+    "renda_mensal": 3600.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Financiar educação dos filhos",
+    "patrimonio_total": 101200.0,
+    "reserva_emergencia_atual": 2800.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Compra de veículo",
+        "valor_necessario": 34800,
+        "prazo": "2028-07"
+      },
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 639600,
+        "prazo": "2034-07"
+      },
+      {
+        "meta": "Capital para negócio",
+        "valor_necessario": 89100,
+        "prazo": "2028-12"
+      }
+    ]
+  },
+  {
+    "nome": "Juliana Ferreira",
+    "idade": 44,
+    "profissao": "Nutricionista",
+    "renda_mensal": 5900.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Financiar educação dos filhos",
+    "patrimonio_total": 42100.0,
+    "reserva_emergencia_atual": 5200.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Completar reserva de emergência",
+        "valor_necessario": 26600,
+        "prazo": "2025-05"
+      },
+      {
+        "meta": "Capital para negócio",
+        "valor_necessario": 42600,
+        "prazo": "2027-07"
+      }
+    ]
+  },
+  {
+    "nome": "Rafael Rodrigues",
+    "idade": 45,
+    "profissao": "Vendedor",
+    "renda_mensal": 4600.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Viver de renda passiva",
+    "patrimonio_total": 117200.0,
+    "reserva_emergencia_atual": 14200.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Capital para negócio",
+        "valor_necessario": 82400,
+        "prazo": "2030-07"
+      },
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 518500,
+        "prazo": "2042-02"
+      }
+    ]
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 62,
+    "profissao": "Psicóloga",
+    "renda_mensal": 6000.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Comprar imóvel próprio",
+    "patrimonio_total": 212900.0,
+    "reserva_emergencia_atual": 15900.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Intercâmbio no exterior",
+        "valor_necessario": 20000,
+        "prazo": "2025-09"
+      },
+      {
+        "meta": "Completar reserva de emergência",
+        "valor_necessario": 12000,
+        "prazo": "2026-10"
+      },
+      {
+        "meta": "Entrada do apartamento",
+        "valor_necessario": 41500,
+        "prazo": "2027-10"
+      }
+    ]
+  },
+  {
+    "nome": "Bruno Pereira",
+    "idade": 31,
+    "profissao": "Desenvolvedor Full Stack",
+    "renda_mensal": 15600.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Abrir o próprio negócio",
+    "patrimonio_total": 282700.0,
+    "reserva_emergencia_atual": 10800.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Capital para negócio",
+        "valor_necessario": 26900,
+        "prazo": "2026-12"
+      },
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 27000,
+        "prazo": "2026-08"
+      },
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 35700,
+        "prazo": "2025-09"
+      }
+    ]
+  },
+  {
+    "nome": "Larissa Carvalho",
+    "idade": 35,
+    "profissao": "Analista de Sistemas",
+    "renda_mensal": 11700.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Aumentar patrimônio a longo prazo",
+    "patrimonio_total": 297900.0,
+    "reserva_emergencia_atual": 64200.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 46300,
+        "prazo": "2027-09"
+      },
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 493400,
+        "prazo": "2035-06"
+      },
+      {
+        "meta": "Entrada do apartamento",
+        "valor_necessario": 86300,
+        "prazo": "2028-11"
+      }
+    ]
+  },
+  {
+    "nome": "Gustavo Ribeiro",
+    "idade": 61,
+    "profissao": "Enfermeira",
+    "renda_mensal": 7200.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Reformar a casa",
+    "patrimonio_total": 211700.0,
+    "reserva_emergencia_atual": 35400.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 123900,
+        "prazo": "2027-01"
+      },
+      {
+        "meta": "Carteira de renda passiva",
+        "valor_necessario": 416000,
+        "prazo": "2035-05"
+      }
+    ]
+  },
+  {
+    "nome": "Patrícia Gomes",
+    "idade": 60,
+    "profissao": "Advogado",
+    "renda_mensal": 19400.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Quitar dívidas e reorganizar finanças",
+    "patrimonio_total": 656900.0,
+    "reserva_emergencia_atual": 115000.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 84000,
+        "prazo": "2030-06"
+      },
+      {
+        "meta": "Entrada do apartamento",
+        "valor_necessario": 52300,
+        "prazo": "2026-08"
+      }
+    ]
+  },
+  {
+    "nome": "Felipe Nascimento",
+    "idade": 44,
+    "profissao": "Fisioterapeuta",
+    "renda_mensal": 7200.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Reformar a casa",
+    "patrimonio_total": 43800.0,
+    "reserva_emergencia_atual": 11900.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Capital para negócio",
+        "valor_necessario": 54700,
+        "prazo": "2028-02"
+      },
+      {
+        "meta": "Aposentadoria",
+        "valor_necessario": 1261000,
+        "prazo": "2042-08"
+      }
+    ]
+  },
+  {
+    "nome": "Aline Barbosa",
+    "idade": 27,
+    "profissao": "Desenvolvedor Full Stack",
+    "renda_mensal": 16700.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Abrir o próprio negócio",
+    "patrimonio_total": 105500.0,
+    "reserva_emergencia_atual": 11200.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Intercâmbio no exterior",
+        "valor_necessario": 37900,
+        "prazo": "2026-11"
+      },
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 950000,
+        "prazo": "2034-09"
+      }
+    ]
+  },
+  {
+    "nome": "Thiago Mendes",
+    "idade": 30,
+    "profissao": "Vendedor",
+    "renda_mensal": 2600.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Garantir aposentadoria tranquila",
+    "patrimonio_total": 14300.0,
+    "reserva_emergencia_atual": 7500.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 222400,
+        "prazo": "2036-05"
+      },
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 125200,
+        "prazo": "2032-05"
+      },
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 34100,
+        "prazo": "2025-01"
+      }
+    ]
+  },
+  {
+    "nome": "Vanessa Araújo",
+    "idade": 44,
+    "profissao": "Biomédico",
+    "renda_mensal": 8500.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Aumentar patrimônio a longo prazo",
+    "patrimonio_total": 138600.0,
+    "reserva_emergencia_atual": 46800.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Carteira de renda passiva",
+        "valor_necessario": 309400,
+        "prazo": "2028-08"
+      },
+      {
+        "meta": "Aposentadoria",
+        "valor_necessario": 1231800,
+        "prazo": "2030-03"
+      }
+    ]
+  },
+  {
+    "nome": "Rodrigo Freitas",
+    "idade": 31,
+    "profissao": "Designer Gráfico",
+    "renda_mensal": 5400.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Aumentar patrimônio a longo prazo",
+    "patrimonio_total": 22100.0,
+    "reserva_emergencia_atual": 10600.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Pós-graduação no exterior",
+        "valor_necessario": 74200,
+        "prazo": "2026-04"
+      },
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 21700,
+        "prazo": "2025-02"
+      },
+      {
+        "meta": "Entrada do apartamento",
+        "valor_necessario": 70500,
+        "prazo": "2026-02"
+      }
+    ]
+  },
+  {
+    "nome": "Beatriz Vieira",
+    "idade": 42,
+    "profissao": "Gerente Comercial",
+    "renda_mensal": 13700.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Aumentar patrimônio a longo prazo",
+    "patrimonio_total": 350100.0,
+    "reserva_emergencia_atual": 37200.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Carteira de renda passiva",
+        "valor_necessario": 309300,
+        "prazo": "2032-09"
+      },
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 183900,
+        "prazo": "2030-08"
+      },
+      {
+        "meta": "Compra de terreno",
+        "valor_necessario": 63700,
+        "prazo": "2027-07"
+      }
+    ]
+  },
+  {
+    "nome": "Eduardo Lopes",
+    "idade": 42,
+    "profissao": "Gerente Comercial",
+    "renda_mensal": 7800.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Comprar imóvel próprio",
+    "patrimonio_total": 72000.0,
+    "reserva_emergencia_atual": 14200.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Compra de terreno",
+        "valor_necessario": 116000,
+        "prazo": "2028-05"
+      },
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 54700,
+        "prazo": "2027-04"
+      }
+    ]
+  },
+  {
+    "nome": "Mariana Cardoso",
+    "idade": 28,
+    "profissao": "Biomédico",
+    "renda_mensal": 6300.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Comprar veículo",
+    "patrimonio_total": 190900.0,
+    "reserva_emergencia_atual": 6100.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Quitar financiamento",
+        "valor_necessario": 41400,
+        "prazo": "2025-12"
+      },
+      {
+        "meta": "Compra de veículo",
+        "valor_necessario": 52000,
+        "prazo": "2027-09"
+      },
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 118800,
+        "prazo": "2027-07"
+      }
+    ]
+  },
+  {
+    "nome": "Leandro Monteiro",
+    "idade": 55,
+    "profissao": "Arquiteta",
+    "renda_mensal": 11600.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Financiar educação dos filhos",
+    "patrimonio_total": 67700.0,
+    "reserva_emergencia_atual": 43500.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Entrada do apartamento",
+        "valor_necessario": 56300,
+        "prazo": "2027-05"
+      },
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 33900,
+        "prazo": "2026-11"
+      }
+    ]
+  },
+  {
+    "nome": "Priscila Castro",
+    "idade": 47,
+    "profissao": "Contador",
+    "renda_mensal": 6000.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Fazer viagem internacional",
+    "patrimonio_total": 112900.0,
+    "reserva_emergencia_atual": 11800.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Pós-graduação no exterior",
+        "valor_necessario": 39200,
+        "prazo": "2026-05"
+      },
+      {
+        "meta": "Compra de terreno",
+        "valor_necessario": 143800,
+        "prazo": "2032-02"
+      }
+    ]
+  },
+  {
+    "nome": "Henrique Teixeira",
+    "idade": 27,
+    "profissao": "Contador",
+    "renda_mensal": 9300.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Aumentar patrimônio a longo prazo",
+    "patrimonio_total": 162100.0,
+    "reserva_emergencia_atual": 18900.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 19500,
+        "prazo": "2027-12"
+      },
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 21000,
+        "prazo": "2025-03"
+      },
+      {
+        "meta": "Intercâmbio no exterior",
+        "valor_necessario": 27900,
+        "prazo": "2025-04"
+      }
+    ]
+  },
+  {
+    "nome": "Roberta Nunes",
+    "idade": 62,
+    "profissao": "Comerciante",
+    "renda_mensal": 7400.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Quitar dívidas e reorganizar finanças",
+    "patrimonio_total": 140600.0,
+    "reserva_emergencia_atual": 7900.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 15400,
+        "prazo": "2027-09"
+      },
+      {
+        "meta": "Completar reserva de emergência",
+        "valor_necessario": 21000,
+        "prazo": "2025-09"
+      }
+    ]
+  },
+  {
+    "nome": "Diego Correia",
+    "idade": 37,
+    "profissao": "Psicóloga",
+    "renda_mensal": 8700.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Comprar veículo",
+    "patrimonio_total": 145200.0,
+    "reserva_emergencia_atual": 25800.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Compra de terreno",
+        "valor_necessario": 84300,
+        "prazo": "2032-12"
+      },
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 145400,
+        "prazo": "2033-06"
+      },
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 985500,
+        "prazo": "2034-01"
+      }
+    ]
+  },
+  {
+    "nome": "Tatiana Moreira",
+    "idade": 62,
+    "profissao": "Engenheiro Civil",
+    "renda_mensal": 15100.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Comprar veículo",
+    "patrimonio_total": 114000.0,
+    "reserva_emergencia_atual": 6700.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Intercâmbio no exterior",
+        "valor_necessario": 28800,
+        "prazo": "2026-03"
+      },
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 73600,
+        "prazo": "2034-01"
+      },
+      {
+        "meta": "Compra de terreno",
+        "valor_necessario": 76300,
+        "prazo": "2029-09"
+      }
+    ]
+  },
+  {
+    "nome": "André Pinto",
+    "idade": 37,
+    "profissao": "Arquiteta",
+    "renda_mensal": 6300.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Comprar veículo",
+    "patrimonio_total": 89000.0,
+    "reserva_emergencia_atual": 0.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Capital para negócio",
+        "valor_necessario": 60200,
+        "prazo": "2027-04"
+      },
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 27600,
+        "prazo": "2025-02"
+      }
+    ]
+  },
+  {
+    "nome": "Simone Dias",
+    "idade": 27,
+    "profissao": "Contador",
+    "renda_mensal": 6000.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Viver de renda passiva",
+    "patrimonio_total": 74100.0,
+    "reserva_emergencia_atual": 8400.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 50300,
+        "prazo": "2028-07"
+      },
+      {
+        "meta": "Compra de terreno",
+        "valor_necessario": 126400,
+        "prazo": "2032-08"
+      }
+    ]
+  },
+  {
+    "nome": "Caio Ramos",
+    "idade": 40,
+    "profissao": "Assistente Administrativo",
+    "renda_mensal": 3900.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Realizar intercâmbio",
+    "patrimonio_total": 118600.0,
+    "reserva_emergencia_atual": 20900.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Compra de terreno",
+        "valor_necessario": 100600,
+        "prazo": "2031-09"
+      },
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 34900,
+        "prazo": "2025-11"
+      },
+      {
+        "meta": "Pós-graduação no exterior",
+        "valor_necessario": 59200,
+        "prazo": "2027-02"
+      }
+    ]
+  },
+  {
+    "nome": "Letícia Cunha",
+    "idade": 24,
+    "profissao": "Analista de Sistemas",
+    "renda_mensal": 5900.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Construir reserva de emergência",
+    "patrimonio_total": 87300.0,
+    "reserva_emergencia_atual": 16000.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 45600,
+        "prazo": "2027-05"
+      },
+      {
+        "meta": "Carteira de renda passiva",
+        "valor_necessario": 101300,
+        "prazo": "2040-02"
+      }
+    ]
+  },
+  {
+    "nome": "Fábio Melo",
+    "idade": 54,
+    "profissao": "Biomédico",
+    "renda_mensal": 8500.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Fazer viagem internacional",
+    "patrimonio_total": 36100.0,
+    "reserva_emergencia_atual": 18600.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 387800,
+        "prazo": "2036-04"
+      },
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 33500,
+        "prazo": "2026-08"
+      }
+    ]
+  },
+  {
+    "nome": "Natália Rocha",
+    "idade": 26,
+    "profissao": "Desenvolvedor Full Stack",
+    "renda_mensal": 13700.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Comprar imóvel próprio",
+    "patrimonio_total": 314800.0,
+    "reserva_emergencia_atual": 52800.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Quitar financiamento",
+        "valor_necessario": 59100,
+        "prazo": "2027-10"
+      },
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 29200,
+        "prazo": "2025-08"
+      }
+    ]
+  },
+  {
+    "nome": "Vinicius Azevedo",
+    "idade": 53,
+    "profissao": "Professora",
+    "renda_mensal": 4400.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Reformar a casa",
+    "patrimonio_total": 41400.0,
+    "reserva_emergencia_atual": 12900.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Capital para negócio",
+        "valor_necessario": 81400,
+        "prazo": "2030-04"
+      },
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 25900,
+        "prazo": "2025-08"
+      },
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 214000,
+        "prazo": "2044-02"
+      }
+    ]
+  },
+  {
+    "nome": "Cláudia Sousa",
+    "idade": 50,
+    "profissao": "Técnico em TI",
+    "renda_mensal": 6500.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Reformar a casa",
+    "patrimonio_total": 29500.0,
+    "reserva_emergencia_atual": 1900.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Quitar financiamento",
+        "valor_necessario": 69200,
+        "prazo": "2027-02"
+      },
+      {
+        "meta": "Aposentadoria",
+        "valor_necessario": 1144000,
+        "prazo": "2037-08"
+      },
+      {
+        "meta": "Intercâmbio no exterior",
+        "valor_necessario": 46900,
+        "prazo": "2026-07"
+      }
+    ]
+  },
+  {
+    "nome": "Renato Lima",
+    "idade": 32,
+    "profissao": "Analista de Sistemas",
+    "renda_mensal": 5000.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Comprar veículo",
+    "patrimonio_total": 133600.0,
+    "reserva_emergencia_atual": 12500.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Entrada do apartamento",
+        "valor_necessario": 40100,
+        "prazo": "2028-07"
+      },
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 296000,
+        "prazo": "2036-12"
+      },
+      {
+        "meta": "Quitar financiamento",
+        "valor_necessario": 20700,
+        "prazo": "2027-05"
+      }
+    ]
+  },
+  {
+    "nome": "Melissa Duarte",
+    "idade": 26,
+    "profissao": "Farmacêutica",
+    "renda_mensal": 7000.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Fazer viagem internacional",
+    "patrimonio_total": 32200.0,
+    "reserva_emergencia_atual": 20900.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 16300,
+        "prazo": "2027-05"
+      },
+      {
+        "meta": "Entrada do apartamento",
+        "valor_necessario": 78100,
+        "prazo": "2027-04"
+      }
+    ]
+  },
+  {
+    "nome": "Alexandre Campos",
+    "idade": 49,
+    "profissao": "Contador",
+    "renda_mensal": 8600.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Realizar intercâmbio",
+    "patrimonio_total": 142300.0,
+    "reserva_emergencia_atual": 1500.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 22100,
+        "prazo": "2025-01"
+      },
+      {
+        "meta": "Carteira de renda passiva",
+        "valor_necessario": 473400,
+        "prazo": "2034-08"
+      },
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 691900,
+        "prazo": "2034-11"
+      }
+    ]
+  },
+  {
+    "nome": "Gabriela Faria",
+    "idade": 53,
+    "profissao": "Comerciante",
+    "renda_mensal": 4500.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Fazer viagem internacional",
+    "patrimonio_total": 35100.0,
+    "reserva_emergencia_atual": 10200.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 39400,
+        "prazo": "2026-07"
+      },
+      {
+        "meta": "Compra de terreno",
+        "valor_necessario": 115600,
+        "prazo": "2029-08"
+      },
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 645900,
+        "prazo": "2042-02"
+      }
+    ]
+  },
+  {
+    "nome": "Marcelo Brito",
+    "idade": 32,
+    "profissao": "Designer Gráfico",
+    "renda_mensal": 3400.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Abrir o próprio negócio",
+    "patrimonio_total": 100600.0,
+    "reserva_emergencia_atual": 11200.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Pós-graduação no exterior",
+        "valor_necessario": 37000,
+        "prazo": "2027-04"
+      },
+      {
+        "meta": "Capital para negócio",
+        "valor_necessario": 27300,
+        "prazo": "2028-09"
+      },
+      {
+        "meta": "Compra de veículo",
+        "valor_necessario": 35500,
+        "prazo": "2026-06"
+      }
+    ]
+  },
+  {
+    "nome": "Isabela Cavalcante",
+    "idade": 58,
+    "profissao": "Contador",
+    "renda_mensal": 6400.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Reformar a casa",
+    "patrimonio_total": 202200.0,
+    "reserva_emergencia_atual": 14700.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Compra de veículo",
+        "valor_necessario": 50300,
+        "prazo": "2025-08"
+      },
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 21900,
+        "prazo": "2026-03"
+      }
+    ]
+  },
+  {
+    "nome": "Paulo Macedo",
+    "idade": 54,
+    "profissao": "Empreendedor",
+    "renda_mensal": 15600.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Comprar veículo",
+    "patrimonio_total": 80300.0,
+    "reserva_emergencia_atual": 50400.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 57900,
+        "prazo": "2026-03"
+      },
+      {
+        "meta": "Capital para negócio",
+        "valor_necessario": 22600,
+        "prazo": "2029-10"
+      },
+      {
+        "meta": "Compra de veículo",
+        "valor_necessario": 59400,
+        "prazo": "2025-07"
+      }
+    ]
+  },
+  {
+    "nome": "Sabrina Andrade",
+    "idade": 51,
+    "profissao": "Técnico em TI",
+    "renda_mensal": 6400.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Realizar intercâmbio",
+    "patrimonio_total": 61500.0,
+    "reserva_emergencia_atual": 5800.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 760800,
+        "prazo": "2044-02"
+      },
+      {
+        "meta": "Compra de terreno",
+        "valor_necessario": 105200,
+        "prazo": "2027-01"
+      }
+    ]
+  },
+  {
+    "nome": "Sandro Magalhães",
+    "idade": 36,
+    "profissao": "Assistente Administrativo",
+    "renda_mensal": 3500.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Realizar intercâmbio",
+    "patrimonio_total": 92100.0,
+    "reserva_emergencia_atual": 20200.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Carteira de renda passiva",
+        "valor_necessario": 379400,
+        "prazo": "2029-02"
+      },
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 18200,
+        "prazo": "2028-10"
+      },
+      {
+        "meta": "Compra de veículo",
+        "valor_necessario": 41500,
+        "prazo": "2027-04"
+      }
+    ]
+  },
+  {
+    "nome": "Cristina Borges",
+    "idade": 22,
+    "profissao": "Servidor Público",
+    "renda_mensal": 4600.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Financiar educação dos filhos",
+    "patrimonio_total": 58700.0,
+    "reserva_emergencia_atual": 23200.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Carteira de renda passiva",
+        "valor_necessario": 198800,
+        "prazo": "2034-12"
+      },
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 147400,
+        "prazo": "2027-01"
+      },
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 21800,
+        "prazo": "2027-11"
+      }
+    ]
+  },
+  {
+    "nome": "Otávio Tavares",
+    "idade": 27,
+    "profissao": "Nutricionista",
+    "renda_mensal": 4400.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Comprar veículo",
+    "patrimonio_total": 13900.0,
+    "reserva_emergencia_atual": 3300.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 15300,
+        "prazo": "2027-12"
+      },
+      {
+        "meta": "Compra de veículo",
+        "valor_necessario": 80700,
+        "prazo": "2025-04"
+      },
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 124400,
+        "prazo": "2030-05"
+      }
+    ]
+  },
+  {
+    "nome": "Denise Moura",
+    "idade": 34,
+    "profissao": "Policial Militar",
+    "renda_mensal": 4900.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Financiar educação dos filhos",
+    "patrimonio_total": 113700.0,
+    "reserva_emergencia_atual": 17900.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Compra de veículo",
+        "valor_necessario": 86900,
+        "prazo": "2026-07"
+      },
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 17400,
+        "prazo": "2026-10"
+      },
+      {
+        "meta": "Completar reserva de emergência",
+        "valor_necessario": 12800,
+        "prazo": "2025-12"
+      }
+    ]
+  },
+  {
+    "nome": "Augusto Rezende",
+    "idade": 33,
+    "profissao": "Professora",
+    "renda_mensal": 4900.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Quitar dívidas e reorganizar finanças",
+    "patrimonio_total": 176000.0,
+    "reserva_emergencia_atual": 27400.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Aposentadoria",
+        "valor_necessario": 1423100,
+        "prazo": "2044-01"
+      },
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 29000,
+        "prazo": "2028-07"
+      }
+    ]
+  },
+  {
+    "nome": "Viviane Nogueira",
+    "idade": 43,
+    "profissao": "Farmacêutica",
+    "renda_mensal": 7200.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Comprar imóvel próprio",
+    "patrimonio_total": 82900.0,
+    "reserva_emergencia_atual": 15200.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Compra de veículo",
+        "valor_necessario": 76100,
+        "prazo": "2027-07"
+      },
+      {
+        "meta": "Quitar financiamento",
+        "valor_necessario": 25300,
+        "prazo": "2028-04"
+      }
+    ]
+  },
+  {
+    "nome": "Tiago Fontes",
+    "idade": 56,
+    "profissao": "Farmacêutica",
+    "renda_mensal": 9600.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Construir reserva de emergência",
+    "patrimonio_total": 138100.0,
+    "reserva_emergencia_atual": 51700.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 165000,
+        "prazo": "2027-07"
+      },
+      {
+        "meta": "Pós-graduação no exterior",
+        "valor_necessario": 31700,
+        "prazo": "2026-01"
+      },
+      {
+        "meta": "Reforma residencial",
+        "valor_necessario": 26600,
+        "prazo": "2028-02"
+      }
+    ]
+  },
+  {
+    "nome": "Raquel Pinheiro",
+    "idade": 43,
+    "profissao": "Servidor Público",
+    "renda_mensal": 6900.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Reformar a casa",
+    "patrimonio_total": 24000.0,
+    "reserva_emergencia_atual": 12500.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 15100,
+        "prazo": "2027-11"
+      },
+      {
+        "meta": "Viagem Europa",
+        "valor_necessario": 38700,
+        "prazo": "2025-01"
+      },
+      {
+        "meta": "Independência financeira",
+        "valor_necessario": 860800,
+        "prazo": "2033-08"
+      }
+    ]
+  },
+  {
+    "nome": "Hudson Carmo",
+    "idade": 51,
+    "profissao": "Economista",
+    "renda_mensal": 13600.0,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Abrir o próprio negócio",
+    "patrimonio_total": 404000.0,
+    "reserva_emergencia_atual": 10800.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Completar reserva de emergência",
+        "valor_necessario": 28600,
+        "prazo": "2026-12"
+      },
+      {
+        "meta": "Pós-graduação no exterior",
+        "valor_necessario": 68600,
+        "prazo": "2027-06"
+      }
+    ]
+  },
+  {
+    "nome": "Elaine Braga",
+    "idade": 51,
+    "profissao": "Arquiteta",
+    "renda_mensal": 9300.0,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Garantir aposentadoria tranquila",
+    "patrimonio_total": 180500.0,
+    "reserva_emergencia_atual": 21900.0,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Compra de veículo",
+        "valor_necessario": 69000,
+        "prazo": "2028-09"
+      },
+      {
+        "meta": "Entrada do apartamento",
+        "valor_necessario": 72700,
+        "prazo": "2027-07"
+      }
+    ]
+  },
+  {
+    "nome": "Nelson Paiva",
+    "idade": 26,
+    "profissao": "Médica",
+    "renda_mensal": 18100.0,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Reformar a casa",
+    "patrimonio_total": 95500.0,
+    "reserva_emergencia_atual": 33300.0,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Aposentadoria",
+        "valor_necessario": 800200,
+        "prazo": "2037-12"
+      },
+      {
+        "meta": "Fundo educação filhos",
+        "valor_necessario": 130800,
+        "prazo": "2028-05"
+      },
+      {
+        "meta": "Fundo de emergência ampliado",
+        "valor_necessario": 25300,
+        "prazo": "2027-05"
+      }
+    ]
+  }
+]
