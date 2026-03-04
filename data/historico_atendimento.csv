@@ -1,6 +1,56 @@
 data,canal,tema,resumo,resolvido
-2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
-2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
-2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
-2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
-2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+2024-01-01,email,Limite de transferência,Cliente solicitou aumento de limite TED,sim
+2024-01-11,WhatsApp,Extrato,Dúvida sobre lançamento no extrato,sim
+2024-02-05,email,Segurança e senha,Cliente relatou acesso suspeito,sim
+2024-02-11,telefone,LCA,Cliente quis saber sobre isenção de IR,sim
+2024-02-11,app,CDB,Cliente perguntou sobre rentabilidade e prazos,nao
+2024-02-24,app,Cartão de crédito,Contestação de cobrança indevida,nao
+2024-02-25,WhatsApp,CDB,Cliente solicitou aplicação em CDB,sim
+2024-03-03,app,LCA,Dúvida sobre lastro em agronegócio,sim
+2024-03-04,email,Imposto de renda,Tabela regressiva de IR explicada,sim
+2024-03-06,WhatsApp,Declaração anual,Solicitação de informe de rendimentos,nao
+2024-03-19,telefone,Tesouro IPCA+,Cliente perguntou sobre marcação a mercado,sim
+2024-03-22,app,Investimento inicial,Dúvida sobre valor mínimo,sim
+2024-03-30,WhatsApp,Bloqueio de conta,Solicitação de desbloqueio por inatividade,sim
+2024-04-08,app,Simulação de investimento,Comparação de produtos na simulação,sim
+2024-04-11,telefone,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
+2024-04-12,chat,Segurança e senha,Redefinição de senha solicitada,sim
+2024-04-30,email,PIX,Dúvida sobre prazo de compensação,nao
+2024-05-02,email,Investimento inicial,Cliente iniciou primeiro investimento,sim
+2024-05-04,telefone,Criação de meta,Meta de fundo de emergência configurada,sim
+2024-05-11,email,Fundos de investimento,Explicação sobre fundos multimercado,sim
+2024-06-16,app,Câmbio,Cliente quis saber sobre remessa internacional,sim
+2024-06-26,WhatsApp,Rendimento da carteira,Dúvida sobre rentabilidade líquida,sim
+2024-06-28,telefone,Criação de meta,Cliente criou meta de aposentadoria,sim
+2024-06-29,email,Encerramento de conta,Processo de encerramento iniciado,sim
+2024-07-11,app,Câmbio,Dúvida sobre taxa de câmbio do dólar,sim
+2024-07-13,email,Problema no app,Erro ao realizar PIX pelo app,sim
+2024-08-02,WhatsApp,Portabilidade,Prazo de portabilidade informado,sim
+2024-08-03,app,Encerramento de conta,Dúvida sobre saldo remanescente no encerramento,nao
+2024-08-07,telefone,Investimento inicial,Cliente iniciou primeiro investimento,sim
+2024-08-14,telefone,Imposto de renda,Tabela regressiva de IR explicada,sim
+2024-08-23,telefone,Rendimento da carteira,Cliente quis ver rentabilidade acumulada,sim
+2024-08-30,chat,Bloqueio de conta,Conta bloqueada por suspeita de fraude - desbloqueada,sim
+2024-08-31,WhatsApp,Encerramento de conta,Cliente solicitou encerramento - retido com oferta,sim
+2024-09-05,chat,Extrato,Dúvida sobre lançamento no extrato,sim
+2024-09-16,email,CDB,Cliente comparou CDB com poupança,sim
+2024-10-04,app,Rendimento da carteira,Cliente quis ver rentabilidade acumulada,sim
+2024-10-13,WhatsApp,PIX,Dúvida sobre prazo de compensação,sim
+2024-10-23,WhatsApp,Criação de meta,Nova meta de compra de imóvel criada,sim
+2024-10-30,WhatsApp,Simulação de investimento,Simulação de CDB por 12 meses realizada,sim
+2024-11-04,telefone,Resgate antecipado,Cliente solicitou resgate antes do vencimento,sim
+2024-11-18,WhatsApp,Problema no app,Erro ao realizar PIX pelo app,sim
+2024-11-22,email,Encerramento de conta,Dúvida sobre saldo remanescente no encerramento,sim
+2024-11-29,chat,Encerramento de conta,Cliente solicitou encerramento - retido com oferta,nao
+2024-11-29,email,Segurança e senha,Ativação de autenticação em dois fatores,sim
+2024-12-05,WhatsApp,PIX,Cliente cadastrou nova chave PIX,sim
+2024-12-16,WhatsApp,LCI,Comparação LCI x CDB,sim
+2024-12-19,telefone,LCI,Comparação LCI x CDB,sim
+2025-01-03,WhatsApp,Rendimento da carteira,Dúvida sobre rentabilidade líquida,sim
+2025-01-17,chat,Encerramento de conta,Cliente solicitou encerramento - retido com oferta,nao
+2025-01-19,telefone,Simulação de investimento,Comparação de produtos na simulação,sim
+2025-01-19,chat,Encerramento de conta,Processo de encerramento iniciado,sim
+2025-01-24,app,Metas financeiras,Cliente criou nova meta de viagem,sim
+2025-02-11,telefone,Simulação de investimento,Simulação de CDB por 12 meses realizada,sim
+2025-02-12,app,Portabilidade,Portabilidade de investimento solicitada,sim
+2025-02-15,WhatsApp,Investimento inicial,Cliente iniciou primeiro investimento,sim

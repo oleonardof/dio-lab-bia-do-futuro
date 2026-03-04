@@ -1,11 +1,111 @@
 data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+2024-01-06,Restaurante,alimentacao,1709.05,saida
+2024-01-08,Viagem,lazer,428.28,saida
+2024-01-15,Cashback,receita,1839.26,entrada
+2024-01-17,Combustível,transporte,680.34,saida
+2024-01-22,Conta de Luz,moradia,2248.83,saida
+2024-01-23,Aluguel,moradia,1307.0,saida
+2024-01-30,Material escolar,educacao,166.48,saida
+2024-02-04,Dentista,saude,191.08,saida
+2024-02-05,Remédio,saude,723.19,saida
+2024-02-05,Assinatura PlayStation,lazer,887.6,saida
+2024-02-19,Consulta médica,saude,1067.59,saida
+2024-02-26,Dividendos,receita,6440.6,entrada
+2024-02-27,Dividendos,receita,4591.93,entrada
+2024-03-06,Cartão de Crédito fatura,outros,425.34,saida
+2024-03-08,Seguro de vida,outros,1446.89,saida
+2024-03-09,Supermercado,alimentacao,1859.91,saida
+2024-03-11,Gás,moradia,1893.12,saida
+2024-03-12,Material escolar,educacao,231.04,saida
+2024-03-19,Açougue,alimentacao,1355.36,saida
+2024-03-20,Roupa,outros,538.41,saida
+2024-03-22,Dentista,saude,705.51,saida
+2024-03-24,Spotify,lazer,1680.39,saida
+2024-03-25,Uber,transporte,674.03,saida
+2024-04-05,Freelance,receita,5564.09,entrada
+2024-04-14,Plano de Saúde,saude,608.13,saida
+2024-04-17,Supermercado,alimentacao,893.89,saida
+2024-04-18,Seguro de vida,outros,2192.77,saida
+2024-04-19,Delivery iFood,alimentacao,2334.15,saida
+2024-04-20,Dentista,saude,268.99,saida
+2024-04-22,Conta de Água,moradia,584.18,saida
+2024-04-22,Reembolso empresa,receita,941.55,entrada
+2024-04-23,Ônibus mensal,transporte,883.9,saida
+2024-04-30,Seguro de vida,outros,626.85,saida
+2024-05-01,Curso online,educacao,547.38,saida
+2024-05-04,Manutenção carro,transporte,488.17,saida
+2024-05-15,Aluguel recebido,receita,3759.23,entrada
+2024-05-28,Cinema,lazer,2168.21,saida
+2024-05-30,Ônibus mensal,transporte,23.06,saida
+2024-06-01,Livros,educacao,1528.29,saida
+2024-06-09,Aluguel recebido,receita,4075.91,entrada
+2024-06-10,Curso online,educacao,998.15,saida
+2024-06-10,Internet,moradia,38.15,saida
+2024-06-22,Rendimento Tesouro Direto,receita,2225.86,entrada
+2024-06-24,Eletrônico,outros,2134.49,saida
+2024-07-08,Padaria,alimentacao,1083.02,saida
+2024-07-12,Cashback,receita,6720.53,entrada
+2024-07-13,Venda de produto usado,receita,5027.95,entrada
+2024-07-13,Eletrônico,outros,2087.76,saida
+2024-07-13,Eletrônico,outros,1725.08,saida
+2024-07-21,Reembolso empresa,receita,2749.98,entrada
+2024-07-23,Assinatura software,outros,942.95,saida
+2024-08-04,Freelance,receita,2139.78,entrada
+2024-08-04,Uber,transporte,963.32,saida
+2024-08-04,Conta de Luz,moradia,23.81,saida
+2024-08-07,Combustível,transporte,914.56,saida
+2024-08-12,Academia,saude,1535.02,saida
+2024-08-14,IPVA,transporte,1408.85,saida
+2024-08-24,Internet,moradia,1116.18,saida
+2024-08-27,Cartão de Crédito fatura,outros,2154.04,saida
+2024-08-27,Conta de Água,moradia,1688.31,saida
+2024-09-05,Combustível,transporte,2257.57,saida
+2024-09-06,Cashback,receita,2132.76,entrada
+2024-09-07,Venda de produto usado,receita,7090.41,entrada
+2024-09-15,Cartão de Crédito fatura,outros,509.11,saida
+2024-09-15,Conta de Água,moradia,244.36,saida
+2024-09-17,Material escolar,educacao,837.91,saida
+2024-09-18,Aluguel recebido,receita,1925.59,entrada
+2024-09-21,Viagem,lazer,573.37,saida
+2024-09-27,IPVA,transporte,2411.44,saida
+2024-09-28,Rendimento Tesouro Direto,receita,1100.84,entrada
+2024-10-01,Assinatura software,outros,860.34,saida
+2024-10-01,IPVA,transporte,470.97,saida
+2024-10-03,Netflix,lazer,1786.68,saida
+2024-10-08,Reembolso empresa,receita,7994.62,entrada
+2024-10-10,Supermercado,alimentacao,2348.24,saida
+2024-10-13,Manutenção carro,transporte,2434.99,saida
+2024-10-17,Gás,moradia,1833.79,saida
+2024-10-25,Plano de Saúde,saude,2337.75,saida
+2024-10-28,Aluguel,moradia,1900.64,saida
+2024-10-31,Freelance,receita,3644.19,entrada
+2024-11-12,Remédio,saude,1449.72,saida
+2024-11-14,Supermercado,alimentacao,197.05,saida
+2024-11-21,Rendimento CDB,receita,1725.52,entrada
+2024-11-23,Cashback,receita,2336.69,entrada
+2024-11-25,Show,lazer,361.98,saida
+2024-11-26,Bônus,receita,5961.6,entrada
+2024-11-28,Manutenção carro,transporte,562.79,saida
+2024-12-03,Dentista,saude,707.33,saida
+2024-12-25,Assinatura software,outros,192.44,saida
+2024-12-25,Salário,receita,6939.45,entrada
+2024-12-26,Reembolso empresa,receita,2209.24,entrada
+2025-01-04,Show,lazer,2430.14,saida
+2025-01-08,IPVA,transporte,1521.43,saida
+2025-01-09,Cartão de Crédito fatura,outros,1659.75,saida
+2025-01-11,Assinatura PlayStation,lazer,410.61,saida
+2025-01-12,Manutenção carro,transporte,2008.55,saida
+2025-01-16,Show,lazer,1871.33,saida
+2025-01-18,Rendimento CDB,receita,6984.54,entrada
+2025-01-25,Freelance,receita,7028.89,entrada
+2025-01-29,Cashback,receita,1711.86,entrada
+2025-02-02,Aluguel,moradia,1503.38,saida
+2025-02-05,Farmácia,saude,1066.17,saida
+2025-02-13,Viagem,lazer,491.1,saida
+2025-02-13,Manutenção carro,transporte,76.59,saida
+2025-02-16,Netflix,lazer,920.09,saida
+2025-02-17,13º Salário,receita,4521.71,entrada
+2025-02-17,Aluguel,moradia,1674.64,saida
+2025-02-21,Rendimento Tesouro Direto,receita,6243.76,entrada
+2025-02-24,Cinema,lazer,568.97,saida
+2025-03-01,Viagem,lazer,158.94,saida
